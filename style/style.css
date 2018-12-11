@@ -1,0 +1,29 @@
+#background {
+    background-image: url("../img/coffee-couple.jpg");
+    height: 1000%;
+    width: auto;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+}
+
+body {
+    margin: 0 auto;
+}
+
+p {
+    font-size: 18px;
+    line-height: 2;
+}
+
+.scroll {
+    padding: 10px;
+    width: 80%;
+    height: 300px;
+    border: solid mediumvioletred 1px;
+}
+
